@@ -2,6 +2,10 @@
 
 Static MVP for the Pilot Training Center website.
 
+## Update Notes
+
+- Modern redesign v2 applied: cleaner UI system, refreshed hero sections, modernized cards/forms/buttons, and responsive mobile navigation menu while preserving page/content structure.
+
 ## Pages
 
 - `index.html`
